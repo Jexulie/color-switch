@@ -1,16 +1,16 @@
-# Color-Switch
+# Color-Switcher
 
 Random Color Generator and Converter
 
 # Installing 
 
 ```sh
-$ npm install color-switch
+$ npm install color-switcher
 ```
 
 # Usage
 ```js
-    var cs = require('color-switch');
+    var cs = require('color-switcher');
 
     // random color
     cs.rndRgb(); // -> {r: 222, g: 123, b:53 }

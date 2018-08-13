@@ -1,5 +1,5 @@
 {
-  "name": "color-switch",
+  "name": "color-switcher",
   "version": "1.0.0",
   "description": "Random Color Generator and Converter",
   "main": "index.js",
