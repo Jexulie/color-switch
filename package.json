@@ -1,0 +1,19 @@
+{
+  "name": "color-switch",
+  "version": "1.0.0",
+  "description": "Random Color Generator and Converter",
+  "main": "index.js",
+  "keywords": [
+    "color",
+    "hex",
+    "rgb",
+    "random",
+    "generate",
+    "hsl",
+    "hsv",
+    "cmyk",
+    "convert"
+  ],
+  "author": "jexulie",
+  "license": "MIT"
+}
